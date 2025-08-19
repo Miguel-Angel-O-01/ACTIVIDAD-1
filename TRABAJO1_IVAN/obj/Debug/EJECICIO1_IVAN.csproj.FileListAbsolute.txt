@@ -1,0 +1,8 @@
+D:\TRABAJO1_IVAN\bin\Debug\TRABAJO1_IVAN.exe.config
+D:\TRABAJO1_IVAN\bin\Debug\TRABAJO1_IVAN.exe
+D:\TRABAJO1_IVAN\bin\Debug\TRABAJO1_IVAN.pdb
+D:\TRABAJO1_IVAN\obj\Debug\EJECICIO1_IVAN.csproj.AssemblyReference.cache
+D:\TRABAJO1_IVAN\obj\Debug\TRABAJO1_IVAN.exe.config
+D:\TRABAJO1_IVAN\obj\Debug\EJECICIO1_IVAN.csproj.CoreCompileInputs.cache
+D:\TRABAJO1_IVAN\obj\Debug\TRABAJO1_IVAN.exe
+D:\TRABAJO1_IVAN\obj\Debug\TRABAJO1_IVAN.pdb

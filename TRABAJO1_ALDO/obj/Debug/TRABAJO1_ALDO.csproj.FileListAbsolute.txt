@@ -1,0 +1,7 @@
+D:\TRABAJO1_ALDO\bin\Debug\TRABAJO1_ALDO.exe.config
+D:\TRABAJO1_ALDO\bin\Debug\TRABAJO1_ALDO.exe
+D:\TRABAJO1_ALDO\bin\Debug\TRABAJO1_ALDO.pdb
+D:\TRABAJO1_ALDO\obj\Debug\TRABAJO1_ALDO.csproj.AssemblyReference.cache
+D:\TRABAJO1_ALDO\obj\Debug\TRABAJO1_ALDO.csproj.CoreCompileInputs.cache
+D:\TRABAJO1_ALDO\obj\Debug\TRABAJO1_ALDO.exe
+D:\TRABAJO1_ALDO\obj\Debug\TRABAJO1_ALDO.pdb
